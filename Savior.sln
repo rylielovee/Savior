@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Savior", "Savior\Savior.csproj", "{B8F21850-E7BC-4417-81A8-B29DC712660C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8F21850-E7BC-4417-81A8-B29DC712660C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F21850-E7BC-4417-81A8-B29DC712660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F21850-E7BC-4417-81A8-B29DC712660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F21850-E7BC-4417-81A8-B29DC712660C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2CE54A7-6D86-4942-83C5-251DC1A9ACF1}
+	EndGlobalSection
+EndGlobal
